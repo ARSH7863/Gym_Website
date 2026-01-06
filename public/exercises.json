@@ -1,0 +1,213 @@
+[
+  {
+    "id": "deadlift",
+    "name": "Barbell Deadlift",
+    "bodyPart": "back",
+    "target": "glutes",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "youtubeQuery": "barbell deadlift proper form",
+    "displayImage": "../src/assets/images/exercises/barbell_deadlift.webp",
+    "gifUrl":"https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFwOWtjd2d6NTJwOWNmb2dkdDlvNXhmMHp5d2Jhd3Y1dnZjYmgyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRHJV6j9HjNQRws/giphy.gif"
+  },
+  {
+    "id": "pull-up",
+    "name": "Pull Up",
+    "bodyPart": "back",
+    "target": "lats",
+    "equipment": "bodyweight",
+    "difficulty": "advanced",
+    "youtubeQuery": "pull up proper form",
+    "displayImage": "../src/assets/images/exercises/pullups.webp",
+    "gifUrl":"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhob2VtN2Y1anpqNmVlb21pZmN6M3ZxdTY3ZnFpOXhoZWp0eGR5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EzlBTmRv3uLcRMsLvU/giphy.gif"
+  },
+
+  {
+    "id": "jump-rope",
+    "name": "Jump Rope",
+    "bodyPart": "cardio",
+    "target": "full body",
+    "equipment": "rope",
+    "difficulty": "beginner",
+    "youtubeQuery": "jump rope cardio workout",
+    "gifUrl":"https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNyNmd4c2UyZ3F6M3hlcG5oMzIxMWw4MjN5NWt5YnF6Y3U2ZGp3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hb7rHspTr6Nqg/giphy.gif"
+  },
+  {
+    "id": "burpees",
+    "name": "Burpees",
+    "bodyPart": "cardio",
+    "target": "full body",
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "youtubeQuery": "burpees exercise proper form",
+    "gifUrl":"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh0aDE2bnFtdTN6Y2wzbnI4eTJ4ZWVtOWltdmhsYnF5bWZmOXBpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxuGSIZU1QZfRiRx4h/giphy.gif"
+  },
+
+  {
+    "id": "bench-press",
+    "name": "Bench Press",
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "youtubeQuery": "bench press proper form",
+    "gifUrl":"https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJyYmVwbDJwODhwOTI1aG5mNWVoeWcyNmZrMDZ2czR0NGd4b204OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvxlilYeFu6QcoMwYg/giphy.gif"
+  },
+  {
+    "id": "push-up",
+    "name": "Push Up",
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "youtubeQuery": "push up proper form",
+    "gifUrl":"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVzMG9hcTVxZmszZ3o2Njd0Y3JubGU2YjFoYnFrM2U3cjc2YmJwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mGWBjz74fn404BWUl4/giphy.gif"
+  },
+
+  {
+    "id": "wrist-curl",
+    "name": "Wrist Curl",
+    "bodyPart": "lower arms",
+    "target": "forearms",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "youtubeQuery": "wrist curl exercise",
+    "gifUrl":"https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJlcTFwNmNiMmYyc2QzeTMyMHdkcXc3ZXczZjRseGl3NjNsdGxscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LhC8ml64RGFfW/giphy.gif"
+  },
+  {
+    "id": "reverse-wrist-curl",
+    "name": "Reverse Wrist Curl",
+    "bodyPart": "lower arms",
+    "target": "forearms",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "youtubeQuery": "reverse wrist curl",
+    "gifUrl":"https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZqNXd0OG1yZGN5YXQ3bjUwd3F5Zmhid201aWZ0bXB4bWExaDNjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RhSifsHdqHrbWVtSJj/giphy.gif"
+  },
+
+  {
+    "id": "calf-raises",
+    "name": "Standing Calf Raises",
+    "bodyPart": "lower legs",
+    "target": "calves",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "youtubeQuery": "standing calf raises",
+    "gifUrl":"https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlhem11cG9xdm5lNHMwemw0YWh2ZGVmdHBscHV3eTBnYWx2em1vaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cGBbyHgaOfDfjyl41M/giphy.gif"
+  },
+  {
+    "id": "seated-calf-raises",
+    "name": "Seated Calf Raises",
+    "bodyPart": "lower legs",
+    "target": "calves",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "youtubeQuery": "seated calf raises",
+    "gifUrl":"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnp3eThneGw1bW8ydnF0bW00MTdtajdzbDJ6NXJ3eW1zNWIyaWJoaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eKrFAm7LXRrOnMq79f/giphy.gif"
+  },
+
+  {
+    "id": "neck-flexion",
+    "name": "Neck Flexion",
+    "bodyPart": "neck",
+    "target": "neck flexors",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "youtubeQuery": "neck flexion exercise",
+    "gifUrl":"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VmMmozeHR5a3h5cjdjY29qcW5ibWR6bnlhN2JrOXgyZHo4ZmQyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4Ki8F3XJxVyktTGw/giphy.gif"
+  },
+  {
+    "id": "neck-extension",
+    "name": "Neck Extension",
+    "bodyPart": "neck",
+    "target": "neck extensors",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "youtubeQuery": "neck extension exercise",
+    "gifUrl":"https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNrejRoc2E4dHNkNHB0YmVxYm0wbWtsNXd1YWRnNGYxcm42eTk5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d4bniiumB07cG5R6/giphy.gif"
+  },
+
+  {
+    "id": "shoulder-press",
+    "name": "Dumbbell Shoulder Press",
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "equipment": "dumbbell",
+    "difficulty": "intermediate",
+    "youtubeQuery": "dumbbell shoulder press",
+    "gifUrl":"https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRmbnhyYjR3OXllcHZ2ZXd6aWY3djY5amV3dHVjYndqNmg2bmFoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gIxeFoOB3xBEeviCn8/giphy.gif"
+  },
+  {
+    "id": "lateral-raises",
+    "name": "Lateral Raises",
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "youtubeQuery": "lateral raises exercise",
+    "gifUrl":"https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlrOHltazE5bG5iOG5kMnUxZ251bmw0aDVrNmVwZTJua2E4dXp0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SA6m60HEroIcosn7sx/giphy.gif"
+  },
+
+  {
+    "id": "bicep-curl",
+    "name": "Bicep Curl",
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "youtubeQuery": "dumbbell bicep curl",
+    "gifUrl":"https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjl0NGx0cG9uMWpxZDB2aXB6bm56cXdwM3hudzRxd3ByaXFkNzVmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0BtrpaGo15NgvitihA/giphy.gif"
+  },
+  {
+    "id": "tricep-dips",
+    "name": "Tricep Dips",
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "youtubeQuery": "tricep dips",
+    "gifUrl":"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGV3aTd2bGF4YXN4aDM0YWN4ZmRlNm1na3dzdDVyYmR5a3hmMzRiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKdb2xwADyl3hQZmZh/giphy.gif"
+  },
+
+  {
+    "id": "squat",
+    "name": "Barbell Squat",
+    "bodyPart": "upper legs",
+    "target": "quads",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "youtubeQuery": "barbell squat proper form",
+    "gifUrl":"https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2l3dTZ2N2IyMms1MjVic2R5aWx2MW9teno5MnYxcXc0ODduOWN4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d832ZmpAR76kng271x/giphy.gif"
+  },
+  {
+    "id": "lunges",
+    "name": "Walking Lunges",
+    "bodyPart": "upper legs",
+    "target": "glutes",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "youtubeQuery": "walking lunges",
+    "gifUrl":"https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjl2YTFlZ3hwZThjdjdrcHg5NW0xcmd6Nm5laXNuajRqMDI3dHVuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4j8698vgjwRSE/giphy.gif"
+  },
+
+  {
+    "id": "plank",
+    "name": "Plank",
+    "bodyPart": "waist",
+    "target": "abs",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "youtubeQuery": "plank exercise",
+    "gifUrl":"https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG1tcWFnbW13NHJobTRwZ3lucnl6NGJ4NDUydTBscXZmbm05bDcwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZcteOOkovIh9HaVFjT/giphy.gif"
+  },
+  {
+    "id": "crunches",
+    "name": "Crunches",
+    "bodyPart": "waist",
+    "target": "abs",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "youtubeQuery": "ab crunches",
+    "gifUrl":"https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3QzNTQwbDQzb3RxMmZmdWxycnNtdXpha3Bkam5iZWp1ajEzcGxreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2A5A9uJBzgyty/giphy.gif"
+  }
+]
